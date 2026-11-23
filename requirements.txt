@@ -1,0 +1,3 @@
+# Only needed for the `portfolio` command; backtesting has no dependencies.
+robin_stocks>=3.0
+pytest>=8
